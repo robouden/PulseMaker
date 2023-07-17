@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../GitHub/louisbertrand/PulseMaker"
+		},
+		{
+			"name": "PulseMaker",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"vector": "cpp"
+		}
+	}
+}
